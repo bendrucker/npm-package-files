@@ -1,7 +1,7 @@
 {
   "name": "npm-package-files",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "List and detect npm package files",
   "license": "MIT",
   "repository": "bendrucker/npm-package-files",

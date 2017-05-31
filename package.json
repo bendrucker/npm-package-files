@@ -1,0 +1,30 @@
+{
+  "name": "npm-package-files",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "List and detect npm package files",
+  "license": "MIT",
+  "repository": "bendrucker/npm-package-files",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "lock",
+    "shrinkwrap"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "*.js",
+    "*.json"
+  ]
+}

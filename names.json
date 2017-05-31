@@ -1,0 +1,5 @@
+{
+  "package.json": true,
+  "npm-shrinkwrap.json": true,
+  "package-lock.json": true
+}

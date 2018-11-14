@@ -1,4 +1,4 @@
-# npm-package-files [![Build Status](https://travis-ci.org/bendrucker/npm-package-files.svg?branch=master)](https://travis-ci.org/bendrucker/npm-package-files)
+# npm-package-files [![Build Status](https://travis-ci.org/bendrucker/npm-package-files.svg?branch=master)](https://travis-ci.org/bendrucker/npm-package-files) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/npm-package-files.svg)](https://greenkeeper.io/)
 
 > List and detect npm package files
 
